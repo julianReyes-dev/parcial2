@@ -10,7 +10,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/julianReyes-dev/traefik-taller-marzo-30.git
+git clone https://github.com/julianReyes-dev/parcial2.git
 cd parcial2
 ```
 
